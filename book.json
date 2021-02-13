@@ -30,19 +30,19 @@
       "showLevel": false
     },
     "disqus": {
-      "shortName": "gitbook-template"
+      "shortName": "algo_engineer_zero_to_one"
     },
     "github-buttons": {
       "buttons": [{
-        "user": "riskers",
-        "repo": "gitbook-template",
+        "user": "dongfengchi",
+        "repo": "algo_engineer_zero_to_one",
         "type": "star",
         "size": "small",
         "count": true
       }]
     },
     "editlink": {
-      "base": "https://github.com/riskers/gitbook-template/blob/master",
+      "base": "https://github.com/dongfengchi/algo_engineer_zero_to_one/blob/master",
       "label": "Edit",
       "multilingual": false
     },
@@ -59,21 +59,21 @@
       ]
     },
     "page-footer-ex": {
-      "copyright": "By [riskers](https://github.com/riskers)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+      "copyright": "作者: [峰池](https://dongfengchi.github.io/algo_engineer_zero_to_one)，一个爱读书的算法工程师",
       "markdown": true,
-      "update_label": "此页面修订于：",
+      "update_label": "最近更新：",
       "update_format": "YYYY-MM-DD HH:mm:ss"
     },
     "bibtex-indexed-cite": {
       "path": "/"
     },
     "donate": {
-      "wechat": "https://riskers.github.io/gitbook-template/wechat.jpg",
-      "alipay": "https://riskers.github.io/gitbook-template/alipay.jpg",
+      "wechat": "./wechat_mp.jpg",
+      "alipay": "./wechat.jpg",
       "title": "",
       "button": "赏",
-      "alipayText": "支付宝打赏",
-      "wechatText": "微信打赏"
+      "alipayText": "微信打赏",
+      "wechatText": "关注公众号：峰池"
     }
   }
 }
