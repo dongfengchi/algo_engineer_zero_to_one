@@ -20,6 +20,7 @@ script:
 after_script:
   - cd _book
   - git init
+  - git checkout -b main  # main分支是主分支
   - git remote add origin https://${REF}
   - git add .
   - git commit -m "Updated By Travis-CI With Build $TRAVIS_BUILD_NUMBER For Github Pages"
