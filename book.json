@@ -1,6 +1,6 @@
 {
-  "title": "title",
-  "author": "",
+  "title": "算法工程师从零到一",
+  "author": "峰池",
   "plugins": [
     "-lunr",
     "-search",
@@ -41,8 +41,13 @@
         "count": true
       }]
     },
+    "links" : {
+      "sidebar" : {
+          "Home" : "http://localhost:4000/"
+      }
+    },
     "editlink": {
-      "base": "https://github.com/dongfengchi/algo_engineer_zero_to_one/blob/master",
+      "base": "https://github.com/dongfengchi/algo_engineer_zero_to_one/",
       "label": "Edit",
       "multilingual": false
     },
@@ -67,9 +72,21 @@
     "bibtex-indexed-cite": {
       "path": "/"
     },
+    "pdf": {
+      "pageNumbers": true,
+      "fontFamily": "Arial",
+      "fontSize": 16,
+      "paperSize": "a4",
+      "margin": {
+          "right": 40,
+          "left": 40,
+          "top": 32,
+          "bottom": 32
+      }
+    },
     "donate": {
-      "wechat": "./wechat_mp.jpg",
-      "alipay": "./wechat.jpg",
+      "wechat": "https://dongfengchi.github.io/algo_engineer_zero_to_one/wechat_mp.jpg",
+      "alipay": "https://dongfengchi.github.io/algo_engineer_zero_to_one/wechat.jpg",
       "title": "",
       "button": "赏",
       "alipayText": "微信打赏",
