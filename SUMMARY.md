@@ -5,7 +5,7 @@
 ## 01 行业背景
 
 * [1-1 互联网整体发展趋势](./chap01/1-internet_industry_trend.md)
-* [1-2 互联网中的主要岗位都是在干些啥？](./chap01/job_description.md)
+* [1-2 互联网中的主要岗位都是在干些啥？](./chap01/position_description.md)
 * [1-3 晋升路径&回报](./chap01/2-the_way_grown_up.md)
 * [1-4 工作体验](./chap01/3-work_experience.md)
 * [1-5 其他问题](./chap01/4-other_questions.md) 
