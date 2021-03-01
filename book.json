@@ -20,7 +20,8 @@
     "copy-code-button",
     "expandable-chapters-small",
     "donate",
-    "katex"
+    "katex",
+    "statistics"
   ],
   "pluginsConfig": {
     "search-pro": {
@@ -54,6 +55,9 @@
     },
     "ga": {
       "token": "G-0FKP0E9H88"
+    },
+    "statistics": {
+      "cnzz_id": 1279720611
     },
     "prism": {
       "ignore": [
