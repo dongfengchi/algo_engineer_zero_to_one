@@ -19,7 +19,8 @@
     "todo",
     "copy-code-button",
     "expandable-chapters-small",
-    "donate"
+    "donate",
+    "mathjax"
   ],
   "pluginsConfig": {
     "search-pro": {
@@ -43,7 +44,7 @@
     },
     "links" : {
       "sidebar" : {
-          "Home" : "http://localhost:4000/"
+          "Home" : "https://github.com/dongfengchi/algo_engineer_zero_to_one/"
       }
     },
     "editlink": {
@@ -52,7 +53,7 @@
       "multilingual": false
     },
     "ga": {
-      "token": "UA-131910384-3"
+      "token": "UA-165623497-1"
     },
     "prism": {
       "ignore": [
