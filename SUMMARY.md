@@ -18,7 +18,7 @@
 * [2-4 面试准备](./chap02/4-interview.md)
 * [2-5 Offer选择](./chap02/5-choice.md)
 
-## 03 日常工作——算法工程师
+## 03 日常工作
 
 * [3-1 工程基础](./chap03/1-basics.md)
 * [3-2 排序模块](./chap03/2-sort.md)
