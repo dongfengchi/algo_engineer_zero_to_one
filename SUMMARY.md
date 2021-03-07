@@ -6,9 +6,9 @@
 
 * [1-1 互联网整体发展趋势](./chap01/1-internet_industry_trend.md)
 * [1-2 互联网中的主要岗位都是在干些啥？](./chap01/position_description.md)
-* [1-3 晋升路径&回报](./chap01/2-the_way_grown_up.md)
-* [1-4 工作体验](./chap01/3-work_experience.md)
-* [1-5 其他问题](./chap01/4-other_questions.md) 
+* [1-3 工作体验](./chap01/3-work_experience.md)
+* [1-4 晋升路径&回报](./chap01/2-the_way_grown_up.md)
+* [1-5 其他问题：城市、户口&实习](./chap01/4-other_questions.md) 
 
 ## 02 找工作
 
@@ -25,11 +25,10 @@
 * [3-3 召回模块](./chap03/3-recall.md)
 * [3-4 样本拼接](./chap03/4-instance.md)
 
-## 04 产品思考
+## 04 新人进阶
 
 * [4-1 写给新人算法工程师](./chap04/write_to_new_engineer.md)
-* [4-2 互联网如何赚钱](./chap04/2-how_to_make_money.md)
-* [4-2 拥抱业务](./chap04/3-embrace_business.md)
+* [4-2 商业模式：互联网如何赚钱](./chap04/2-how_to_make_money.md)
 
 ## 05 推荐资料
 

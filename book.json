@@ -6,7 +6,6 @@
     "-search",
     "search-pro",
     "-sharing",
-    "disqus",
     "github-buttons",
     "editlink",
     "ga",
@@ -30,9 +29,6 @@
     },
     "anchor-navigation-ex": {
       "showLevel": false
-    },
-    "disqus": {
-      "shortName": "algo_engineer_zero_to_one"
     },
     "github-buttons": {
       "buttons": [{
