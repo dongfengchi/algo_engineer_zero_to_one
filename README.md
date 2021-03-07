@@ -23,7 +23,7 @@ description: 作者峰池和这本书，算法工程师从零到一
 目前自己粗略的统计应该字数是五万有余，看到这个结果自己还是挺开心的。当然字数只是一方面，如果真的对大家有所帮助那就是太开心了。
 
 可以我提供了PDF和网页端两种形式
-* 网页端大家可以直接访问https://dongfengchi.github.io/algo_engineer_zero_to_one/，或者可以点击文末的阅读原文。
+* 网页端大家可以直接访问https://dongfengchi.github.io/algo_engineer_zero_to_one/
 * pdf大家可以添加我的微信`fengchi_dong`或者在公众号后台回复`从零到一`获得。
 
 
