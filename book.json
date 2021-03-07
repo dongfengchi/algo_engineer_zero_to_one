@@ -73,18 +73,6 @@
     "bibtex-indexed-cite": {
       "path": "/"
     },
-    "pdf": {
-      "pageNumbers": true,
-      "fontFamily": "Arial",
-      "fontSize": 16,
-      "paperSize": "a4",
-      "margin": {
-          "right": 40,
-          "left": 40,
-          "top": 32,
-          "bottom": 32
-      }
-    },
     "donate": {
       "wechat": "https://dongfengchi.github.io/algo_engineer_zero_to_one/wechat_mp.jpg",
       "alipay": "https://dongfengchi.github.io/algo_engineer_zero_to_one/wechat.jpg",
@@ -92,6 +80,18 @@
       "button": "赏",
       "alipayText": "微信打赏",
       "wechatText": "关注公众号：峰池"
+    }
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontFamily": "Arial",
+    "fontSize": 14,
+    "paperSize": "a4",
+    "margin": {
+        "right": 30,
+        "left": 30,
+        "top": 32,
+        "bottom": 32
     }
   }
 }
