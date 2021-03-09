@@ -1,0 +1,8 @@
+node_modules
+_book
+
+*.pdf
+
+.Archive
+.markeditor
+configs

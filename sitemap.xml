@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/./</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap01/1-internet_industry_trend.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap01/position_description.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap01/3-work_experience.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap01/2-the_way_grown_up.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap01/4-other_questions.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap02/1-preparing.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap02/2-process.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap02/3-resume.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap02/4-interview.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap02/5-choice.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap03/1-basics.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap03/2-sort.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap03/3-recall.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap03/4-instance.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap04/write_to_new_engineer.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap04/2-how_to_make_money.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://dongfengchi.github.io/algo_engineer_zero_to_one/chap05/1-book_recommend.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>
